@@ -1,0 +1,22 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.card-header {
+    background-color: blueviolet;
+    color: white;
+}
+
+.btn-success {
+    background-color: green;
+}
+
+.btn-info {
+    background-color: darkseagreen;
+}
+
+.card-footer {
+    background-color: rgb(116, 116, 116);
+    color: rgb(0, 0, 0);
+}
